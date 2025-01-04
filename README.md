@@ -1,19 +1,28 @@
-## Hi there 👋
+# Mohammad Abu Dayeh - Cybersecurity Expert & Developer
 
-# This is an `<h1>` header, which is the largest
-## This is an `<h2>` header
-###### This is an `<h6>` header, which is the smallest
-<!--
-**xdayeh/xDayeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/badge/Website-abudayeh.me-blue)](https://abudayeh.me)
+[![Email](https://img.shields.io/badge/Email-Mohammad.AbuDayeh@htu.edu.jo-red)](mailto:Mohammad.AbuDayeh@htu.edu.jo)
 
-Here are some ideas to get you started:
+## 📖 About Me
+I am a certified security expert with over 11 years of experience in cybersecurity, specializing in:
+- Web application security
+- Incident handling
+- Network security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With a strong foundation in software engineering, I excel in identifying critical vulnerabilities, enhancing security protocols, and developing robust web applications.
+
+---
+
+## 🏆 Achievements
+- **Microsoft Security**: Discovered and mitigated critical vulnerabilities in Microsoft corporate systems.
+- **Government Sectors**: Identified significant security holes, preventing breaches and fortifying cybersecurity measures.
+
+---
+
+## 📬 Contact
+
+- **Phone**: +962 785685087  
+- **Email**: [Mohammad.AbuDayeh@htu.edu.jo](mailto:Mohammad.AbuDayeh@htu.edu.jo)  
+- **Website**: [abudayeh.me](https://abudayeh.me)  
+
+Feel free to reach out for collaborations, consulting, or mentoring in cybersecurity and software development!
