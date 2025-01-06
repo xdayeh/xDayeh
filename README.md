@@ -1,4 +1,4 @@
-# Mohammad Ibrahim AbuDayeh - Cybersecurity Expert & Developer
+# Mohammad Ibrahim AbuDayeh - Cybersecurity Expert & Programmer
 
 [![Website](https://img.shields.io/badge/Website-abudayeh.me-blue)](https://abudayeh.me)
 [![Email](https://img.shields.io/badge/Email-Mohammad.AbuDayeh@htu.edu.jo-red)](mailto:Mohammad.AbuDayeh@htu.edu.jo)
